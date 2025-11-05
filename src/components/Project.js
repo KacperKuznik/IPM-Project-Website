@@ -15,7 +15,7 @@ export default function Project() {
             <div className="flex flex-wrap gap-4">
                 <Card imageSrc={"/images/assignment1.png"} description={"#1"} onClick={() => handleClick("./G_12_stage1")}>popup content</Card>
                 <Card imageSrc={"/images/assignment1.png"} description={"#2"} onClick={() => handleClick("./G_12_stage2")}>popup content</Card>
-                <Card imageSrc={"/images/assignment1.png"} description={"#3"}/>
+                <Card imageSrc={"/images/assignment1.png"} description={"#3"} onClick={() => handleClick("./G_12_stage3")}>popup content</Card>
                 <Card imageSrc={"/images/assignment1.png"} description={"#4"}/>
             <Card imageSrc={"/images/assignment1.png"} description={"#5"} />
             </div>

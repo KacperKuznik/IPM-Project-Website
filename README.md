@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+# Usage
+scan this QR code through expo go app
+<img width="470" height="322" alt="image" src="https://github.com/user-attachments/assets/a149c459-8fc0-48d2-a671-af13cb577f9e" />
+
 First, run the development server:
 
 ```bash

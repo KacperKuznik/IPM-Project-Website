@@ -18,6 +18,9 @@ export default function Project() {
                 <Card imageSrc={"/images/3.jpg"} description={"#3"} onClick={() => handleClick("./G_12_stage3")}>popup content</Card>
                 <Card imageSrc={"/images/4.jpeg"} description={"#4"} onClick={() => handleClick("./G_12_stage4")}>popup content</Card>
                 <Card imageSrc={"/images/5.png"} description={"#5"} onClick={() => handleClick("./G_12_stage5")}>popup content</Card>
+                <Card imageSrc={"/images/5.png"} description={"#5 G13"} onClick={() => handleClick("./G_13_stage5")}>popup content</Card>
+                <Card imageSrc={"/images/6.png"} description={"#6"} onClick={() => handleClick("./G_12_stage6")}>popup content</Card>
+
             </div>
         </SectionLayout>
 }

@@ -3,7 +3,7 @@ import SectionLayout from "./SectionLayout";
 
 // Team members and their corresponding PDF filenames (without .pdf)
 const members = [
-    { name: "Matej Palider", file: "asg1" },
+    { name: "Matej Palider", file: "Palider_assignment_1" },
     { name: "Kacper Kuźnik", file: "Assignment1_Kacper" },
     { name: "Dawid Bogacz", file: "Assignment1Dawid" },
     { name: "Mikołaj Nowacki", file: "Assignment1Mikolaj" },
